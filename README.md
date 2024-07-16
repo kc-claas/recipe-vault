@@ -1,6 +1,6 @@
 
 # Recipe Vault
-https://phypham1.github.io/Project1/ 
+https://kc-claas.github.io/recipe-vault/
 
 
 ## Description
@@ -11,12 +11,13 @@ Welcome to the Recipe Vault! This web application allows users to explore, add, 
 - [Usage](#usage)
 - [Features](#features)
 - [Credits](#credits)
+- [Technologies Used](#technologies-used)
 - [License](#license)
 - [Contact](#contact)
 
 ## Usage
 ![screenshot](./assets/image/screenshot.png)
-- Navigate to https://phypham1.github.io/Project1/ in your browser of choice.
+- Navigate to https://kc-claas.github.io/recipe-vault/ in your browser of choice.
 - Use 'Add New Recipe' button to bring up a form for adding new recipes.
 - Click on a recipe card to open that recipe in a new page.
 - On the recipe page, the home button will redirect back to the landing page.
@@ -29,12 +30,17 @@ Welcome to the Recipe Vault! This web application allows users to explore, add, 
 - **Add/Edit Recipe**: Add new recipes or edit existing ones with a user-friendly form.
 - **Local Storage**: Recipes & future additions are saved using local storage.
 
-
 ## Credits
 - Isaiah Capers - https://github.com/Isaiahcapers
 - Keith Claas - https://github.com/kc-claas
 - Phy Pham - https://github.com/PHYPHAM1
 - Ricardo Phillip - https://github.com/rphilippe2
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
 ## License
 This project is licensed under the MIT License.
