@@ -1,16 +1,26 @@
 
 # Recipe Vault
+https://phypham1.github.io/Project1/ 
 
-Welcome to the Culinary Craftbook Hub! This web application allows users to explore, add, and manage their favorite recipes in an intuitive and user-friendly interface. 
+
+## Description
+
+Welcome to the Recipe Vault! This web application allows users to explore, add, and manage their favorite recipes in an intuitive and user-friendly interface. 
 
 ## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Features](#features)
+- [Credits](#credits)
 - [License](#license)
 - [Contact](#contact)
+
+## Usage
+![screenshot](./assets/image/screenshot.png)
+- Navigate to https://phypham1.github.io/Project1/ in your browser of choice.
+- Use 'Add New Recipe' button to bring up a form for adding new recipes.
+- Click on a recipe card to open that recipe in a new page.
+- On the recipe page, the home button will redirect back to the landing page.
+- Recipes can also be editted or deleted on their recipe page using the respective buttons.
 
 ## Features
 - **Home Page**: Welcoming page with links to different recipes.
@@ -19,52 +29,15 @@ Welcome to the Culinary Craftbook Hub! This web application allows users to expl
 - **Add/Edit Recipe**: Add new recipes or edit existing ones with a user-friendly form.
 - **Local Storage**: Recipes & future additions are saved using local storage.
 
-## Technologies Used
-- **HTML5**: Structure and content of the web application.
-- **CSS**: Styling and layout of the web application.
-- **JavaScript**: Dynamic interactions and functionality.
-- **Local Storage API**: Persistent data storage on the client side.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Recipe-Vault.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Recipe-Vault-hub
-   ```
-3. Open `index.html` in your preferred web browser.
-
-## Usage
-1. **Browse Recipes**: Use the links or nav section on the home page to find recipes.
-2. **View Recipe Details**: Click on a recipe from the list to see full details.
-3. **Add/Edit Recipes**: Use the form to add new recipes or edit existing ones.
-4. **Persistent Storage**: All data is stored in local storage and will persist across sessions.
-
-## Contributing
-We welcome contributions to enhance the Culinary Craftbook Hub! To contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request with a detailed description of your changes.
+## Credits
+- Isaiah Capers - https://github.com/Isaiahcapers
+- Keith Claas - https://github.com/kc-claas
+- Phy Pham - https://github.com/PHYPHAM1
+- Ricardo Phillip - https://github.com/rphilippe2
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contact
-For any questions or suggestions, please contact us at:
-- Email: support@recipevault.com
----
-
-Thank you for using the Culinary Craftbook Hub! Happy cooking!
+For questions, concerns, or suggestions, i can be reached at keithclaas@gmail.com
